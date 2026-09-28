@@ -1,0 +1,8 @@
+{
+  "name": "fileview",
+  "version": "0.1.0",
+  "description": "A file panel as a plugin: /fileview <path> shows any file beside the transcript, markdown rendered by default (raw on request) and everything else syntax-highlighted, refreshed as Claude edits the file shown.",
+  "author": {
+    "name": "STylerawr"
+  }
+}

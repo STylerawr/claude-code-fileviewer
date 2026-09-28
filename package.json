@@ -1,0 +1,24 @@
+{
+  "name": "claude-code-fileviewer",
+  "version": "0.1.0",
+  "description": "A Claude Code mod: /fileview shows any file in a panel beside the transcript, modeled on the built-in /diff mod.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STylerawr/claude-code-fileviewer.git"
+  },
+  "keywords": ["claude-code", "plugin", "mod"],
+  "author": "STylerawr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STylerawr/claude-code-fileviewer/issues"
+  },
+  "homepage": "https://github.com/STylerawr/claude-code-fileviewer#readme",
+  "devDependencies": {
+    "typescript": "5.7.3"
+  }
+}

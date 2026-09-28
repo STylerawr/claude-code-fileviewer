@@ -1,0 +1,4 @@
+{
+  "description": "The file panel: /fileview opens a pane beside the transcript showing one file's content, and closes it again; refreshes when Claude edits the file it shows.",
+  "modules": ["./register.ts"]
+}
